@@ -1,0 +1,11 @@
+# Python artifacts
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Large Model Files
+models/*.pkl
+
+# Environment variables
+.env
