@@ -4,6 +4,12 @@ An end-to-end Data Science pipeline that scrapes 2024 IMDb feature films and uti
 
 ---
 
+## 🔗 Live Demo
+Check out the interactive web application here:  
+👉 **[Click here to Launch the App](https://imdb-movie-recommendation-system-using-storylines.streamlit.app/)** 🚀
+
+---
+
 ## Basic Workflow
 
 The project is divided into a 4-tier modular architecture to ensure scalability and maintainability:
