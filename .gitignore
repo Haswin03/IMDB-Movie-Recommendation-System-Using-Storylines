@@ -1,11 +1,14 @@
-# Python artifacts
-__pycache__/
-*.pyc
-.venv/
+# Environments
 venv/
+.venv/
+env/
+__pycache__/
 
-# Large Model Files
-models/*.pkl
+# OS & IDE
+.vscode/
+.idea/
+.DS_Store
 
-# Environment variables
-.env
+# Models & Data
+# models/*.pkl
+# data/*.csv
